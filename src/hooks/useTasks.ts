@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 import { supabase } from '../lib/supabase'
-import type { Task, CreateTaskInput, UpdateTaskInput } from '../types/database'
+import type { Task, CreateTaskInput } from '../types/database'
 
 export function useTasks(userId: string | undefined) {
   const [tasks, setTasks] = useState<Task[]>([])

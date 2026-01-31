@@ -1,5 +1,5 @@
-import React, { useState } from 'react'
-import type { Task, Priority } from '../types/database'
+import { useState } from 'react'
+import type { Task } from '../types/database'
 import './TaskItem.css'
 
 interface TaskItemProps {
