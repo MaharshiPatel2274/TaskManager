@@ -143,7 +143,7 @@ Improve UI styling and accessibility
 Live Demo
 
 Live URL:
-
+https://task-manager-rhine273q-maharshi-niraj-patels-projects.vercel.app/ 
 
 Repository
 
